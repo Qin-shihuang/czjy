@@ -1,5 +1,7 @@
 node_modules
-reso
 data
 dist
+reso/*
+!reso/logo.png
+!reso/logo2.png
 src/config.js
