@@ -4,4 +4,5 @@ dist
 reso/*
 !reso/logo.png
 !reso/logo2.png
+!reso/favicon.ico
 src/config.js
